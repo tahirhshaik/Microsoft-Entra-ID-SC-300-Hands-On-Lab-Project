@@ -1,0 +1,51 @@
+﻿Username,First name,Last name,Display name,Job title,Department,Office number,Office phone,Mobile phone,Fax,Alternate email address,Address,City,State or province,ZIP or postal code,Country or region
+ahmed.hassan@tahirshaik.onmicrosoft.com,Ahmed,Hassan,Ahmed Hassan,IT Manager,IT,Suite 800,+14163001000,+14165002000,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+sarah.mitchell@tahirshaik.onmicrosoft.com,Sarah,Mitchell,Sarah Mitchell,Chief Financial Officer,Finance,Floor 12,+16473011001,+16475012001,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+james.thornton@tahirshaik.onmicrosoft.com,James,Thornton,James Thornton,Chief Operating Officer,Operations,Suite 300,+16043021002,+17785022002,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+priya.sharma@tahirshaik.onmicrosoft.com,Priya,Sharma,Priya Sharma,Chief Technology Officer,Engineering,Floor 5,+15143031003,+14385032003,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+daniel.okafor@tahirshaik.onmicrosoft.com,Daniel,Okafor,Daniel Okafor,Chief Marketing Officer,Marketing,Suite 200,+14033041004,+15875042004,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+emma.williams@tahirshaik.onmicrosoft.com,Emma,Williams,Emma Williams,HR Director,Human Resources,Floor 3,+17803051005,+18255052005,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+liam.johnson@tahirshaik.onmicrosoft.com,Liam,Johnson,Liam Johnson,HR Business Partner,Human Resources,Suite 800,+16133061006,+16135062006,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+fatima.alrashid@tahirshaik.onmicrosoft.com,Fatima,AlRashid,Fatima AlRashid,Recruiter,Human Resources,Floor 12,+19053071007,+12895072007,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+carlos.mendez@tahirshaik.onmicrosoft.com,Carlos,Mendez,Carlos Mendez,HR Coordinator,Human Resources,Suite 300,+15193081008,+12365082008,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+sophie.turner@tahirshaik.onmicrosoft.com,Sophie,Turner,Sophie Turner,Finance Manager,Finance,Floor 5,+12503091009,+13435092009,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+oliver.bennett@tahirshaik.onmicrosoft.com,Oliver,Bennett,Oliver Bennett,Senior Accountant,Finance,Suite 200,+14163101010,+14165102010,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+aisha.patel@tahirshaik.onmicrosoft.com,Aisha,Patel,Aisha Patel,Financial Analyst,Finance,Floor 3,+16473111011,+16475112011,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+noah.clarke@tahirshaik.onmicrosoft.com,Noah,Clarke,Noah Clarke,Accounts Payable Specialist,Finance,Suite 800,+16043121012,+17785122012,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+isabella.ross@tahirshaik.onmicrosoft.com,Isabella,Ross,Isabella Ross,Payroll Specialist,Finance,Floor 12,+15143131013,+14385132013,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+ethan.murphy@tahirshaik.onmicrosoft.com,Ethan,Murphy,Ethan Murphy,Engineering Manager,Engineering,Suite 300,+14033141014,+15875142014,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+zara.khan@tahirshaik.onmicrosoft.com,Zara,Khan,Zara Khan,Senior Software Engineer,Engineering,Floor 5,+17803151015,+18255152015,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+lucas.fernandez@tahirshaik.onmicrosoft.com,Lucas,Fernandez,Lucas Fernandez,Software Engineer,Engineering,Suite 200,+16133161016,+16135162016,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+mia.nguyen@tahirshaik.onmicrosoft.com,Mia,Nguyen,Mia Nguyen,Frontend Developer,Engineering,Floor 3,+19053171017,+12895172017,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+benjamin.scott@tahirshaik.onmicrosoft.com,Benjamin,Scott,Benjamin Scott,Backend Developer,Engineering,Suite 800,+15193181018,+12365182018,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+aria.patel@tahirshaik.onmicrosoft.com,Aria,Patel,Aria Patel,Full Stack Developer,Engineering,Floor 12,+12503191019,+13435192019,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+mason.lee@tahirshaik.onmicrosoft.com,Mason,Lee,Mason Lee,DevOps Engineer,Engineering,Suite 300,+14163201020,+14165202020,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+charlotte.davis@tahirshaik.onmicrosoft.com,Charlotte,Davis,Charlotte Davis,QA Engineer,Engineering,Floor 5,+16473211021,+16475212021,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+elijah.martin@tahirshaik.onmicrosoft.com,Elijah,Martin,Elijah Martin,Security Engineer,Engineering,Suite 200,+16043221022,+17785222022,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+amelia.thompson@tahirshaik.onmicrosoft.com,Amelia,Thompson,Amelia Thompson,Data Engineer,Engineering,Floor 3,+15143231023,+14385232023,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+henry.wilson@tahirshaik.onmicrosoft.com,Henry,Wilson,Henry Wilson,IT Support Specialist,IT,Suite 800,+14033241024,+15875242024,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+grace.anderson@tahirshaik.onmicrosoft.com,Grace,Anderson,Grace Anderson,Systems Administrator,IT,Floor 12,+17803251025,+18255252025,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+jack.taylor@tahirshaik.onmicrosoft.com,Jack,Taylor,Jack Taylor,Network Engineer,IT,Suite 300,+16133261026,+16135262026,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+lily.jackson@tahirshaik.onmicrosoft.com,Lily,Jackson,Lily Jackson,Cloud Architect,IT,Floor 5,+19053271027,+12895272027,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+sebastian.white@tahirshaik.onmicrosoft.com,Sebastian,White,Sebastian White,IT Security Analyst,IT,Suite 200,+15193281028,+12365282028,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+victoria.harris@tahirshaik.onmicrosoft.com,Victoria,Harris,Victoria Harris,Sales Director,Sales,Floor 3,+12503291029,+13435292029,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+ryan.moore@tahirshaik.onmicrosoft.com,Ryan,Moore,Ryan Moore,Senior Account Executive,Sales,Suite 800,+14163301030,+14165302030,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+hannah.martin@tahirshaik.onmicrosoft.com,Hannah,Martin,Hannah Martin,Account Executive,Sales,Floor 12,+16473311031,+16475312031,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+tyler.garcia@tahirshaik.onmicrosoft.com,Tyler,Garcia,Tyler Garcia,Sales Development Rep,Sales,Suite 300,+16043321032,+17785322032,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+natalie.martinez@tahirshaik.onmicrosoft.com,Natalie,Martinez,Natalie Martinez,Sales Development Rep,Sales,Floor 5,+15143331033,+14385332033,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+dylan.robinson@tahirshaik.onmicrosoft.com,Dylan,Robinson,Dylan Robinson,Account Manager,Sales,Suite 200,+14033341034,+15875342034,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+stella.clark@tahirshaik.onmicrosoft.com,Stella,Clark,Stella Clark,Customer Success Manager,Sales,Floor 3,+17803351035,+18255352035,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+aaron.lewis@tahirshaik.onmicrosoft.com,Aaron,Lewis,Aaron Lewis,Marketing Manager,Marketing,Suite 800,+16133361036,+16135362036,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+chloe.walker@tahirshaik.onmicrosoft.com,Chloe,Walker,Chloe Walker,Content Strategist,Marketing,Floor 12,+19053371037,+12895372037,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+joshua.hall@tahirshaik.onmicrosoft.com,Joshua,Hall,Joshua Hall,SEO Specialist,Marketing,Suite 300,+15193381038,+12365382038,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+madison.allen@tahirshaik.onmicrosoft.com,Madison,Allen,Madison Allen,Social Media Manager,Marketing,Floor 5,+12503391039,+13435392039,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+caleb.young@tahirshaik.onmicrosoft.com,Caleb,Young,Caleb Young,Graphic Designer,Marketing,Suite 200,+14163401040,+14165402040,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+penelope.king@tahirshaik.onmicrosoft.com,Penelope,King,Penelope King,General Counsel,Legal,Floor 3,+16473411041,+16475412041,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+isaiah.wright@tahirshaik.onmicrosoft.com,Isaiah,Wright,Isaiah Wright,Compliance Officer,Legal,Suite 800,+16043421042,+17785422042,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+aurora.scott@tahirshaik.onmicrosoft.com,Aurora,Scott,Aurora Scott,Legal Assistant,Legal,Floor 12,+15143431043,+14385432043,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
+dominic.baker@tahirshaik.onmicrosoft.com,Dominic,Baker,Dominic Baker,Operations Manager,Operations,Suite 300,+14033441044,+15875442044,,,789 Rue Sainte-Catherine,Montreal,Quebec,H3B 1A7,Canada
+savannah.green@tahirshaik.onmicrosoft.com,Savannah,Green,Savannah Green,Project Manager,Operations,Floor 5,+17803451045,+18255452045,,,321 Jasper Avenue,Edmonton,Alberta,T5J 3N4,Canada
+nolan.adams@tahirshaik.onmicrosoft.com,Nolan,Adams,Nolan Adams,Business Analyst,Operations,Suite 200,+16133461046,+16135462046,,,654 Portage Avenue,Winnipeg,Manitoba,R3C 0C4,Canada
+hazel.nelson@tahirshaik.onmicrosoft.com,Hazel,Nelson,Hazel Nelson,Office Manager,Operations,Floor 3,+19053471047,+12895472047,,,987 Spring Garden Road,Halifax,Nova Scotia,B3J 3R4,Canada
+leo.carter@tahirshaik.onmicrosoft.com,Leo,Carter,Leo Carter,Support Team Lead,Support,Suite 800,+15193481048,+12365482048,,,123 Bay Street,Toronto,Ontario,M5H 2Y4,Canada
+ruby.mitchell@tahirshaik.onmicrosoft.com,Ruby,Mitchell,Ruby Mitchell,Support Specialist,Support,Floor 12,+12503491049,+13435492049,,,456 Burrard Street,Vancouver,British Columbia,V6C 2G8,Canada
